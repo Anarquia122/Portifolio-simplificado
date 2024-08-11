@@ -76,6 +76,11 @@ body {
     margin-bottom: 10px;
 }
 
+.home .informacoes p a {
+    color: #00eea2;
+    text-decoration: underline;
+}
+
 .home .redes-sociais {
     display: flex;
     gap: 20px;
